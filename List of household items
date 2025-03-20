@@ -7,4 +7,8 @@
         householdItems.Add("4. Chair");
         householdItems.Add("5. Lamp");
 
+2nd-branch
 householdItems.Add("6. Washing Machine");
+
+householdItems.Add("6. Refrigerator");
+main
