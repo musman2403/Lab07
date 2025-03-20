@@ -6,3 +6,5 @@
         householdItems.Add("3. Table");
         householdItems.Add("4. Chair");
         householdItems.Add("5. Lamp");
+
+householdItems.Add("6. Washing Machine");
